@@ -1,8 +1,10 @@
-## CIT 281 Lab 01
+## CIT 281 Lab 08
 
 In this lab we:
-- Installed and setup our personal computer with the software tools required for this course
-- Practiced using software tools
-- Practiced terminal or shell commands
-- Practiced keyboard shortcuts
-- Created our first Node.js server-side JavaScript file
+- Create lab file and initialize Node.js folder
+- Install node-fetch package
+- Add fastify starter code
+- Add fastify and node-fetch require statements
+- Fetch JSONPlaceholder data
+
+In this lab I learned how to use the node-fetch package and how to use the JSONPlaceholder. 
